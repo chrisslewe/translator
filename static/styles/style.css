@@ -1,0 +1,39 @@
+body {
+    font-family:Verdana;
+}
+
+.userText {
+    color: rgb(0, 0, 0);
+    /*font-family: monospace;*/
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+    
+
+}
+.userText span {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 2px;
+    display: inline-block;
+}
+.botText {
+    color: rgb(0, 0, 0);
+    /*font-family: monospace;*/
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+}
+.botText span {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 2px;
+    display: inline-block
+
+}
+body {
+    background-color: #ffffff46;
+    background-repeat: no-repeat;
+    background-size:  500px; 
+    background-position: 50% 0%; 
+   }
